@@ -1,5 +1,12 @@
 # Week-9-IP---KNN-and-Naive-Bayes
-1. Defining the Question - Titanic 
+1. Defining the Question -
+2. 
+3.   
+4.   
+TITANIC DATASET 
+
+
+
 a) Specifying the Question
 Specifying the Data Analytic Question Using Titanic data implement KNN classifier to create a model that would accurately classify whether a passenger would survive or not, given the different feaures from the data
 
@@ -57,7 +64,9 @@ Implementing the solution
 Conclusion and challenging the solution
 
 
-1. Defining the Question
+1. Defining the Question - 
+
+SPAM DATASET 
 a) Specifying the Question
 This week's project requires us to implement a Naive Bayes classifier on the provided dataset in order to classify an e-mail as spam or not.
 
